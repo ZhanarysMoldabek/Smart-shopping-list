@@ -93,25 +93,25 @@ The statistics screen provides:
 
 **4.Screens**
 
-![][image1]
+images/screen1.jpg
 
 **Screen 1: Main Shopping Lists Screen**
 
 Displays all shopping lists in card format with clear progress indicators. Each card shows list name, item count (purchased/total), budget status (spent/remaining), and a color-coded progress bar. A prominent floating "+ New List" button enables quick list creation. Bottom navigation provides access to Statistics and Settings sections.
 
-![][image2]
+images/screen2.jpg
 
 **Screen 2: Statistics Dashboard**
 
 Comprehensive analytics screen showing total spending (180₸), average purchase amount, and purchase count. Features categorized expense breakdown (Groceries, Dairy) and active list progress indicators (4%, 0%). Visual card layout organizes data into digestible sections with icons and progress bars for quick insights.
 
-![][image3]
+images/screen3.jpg
 
 **Screen 3: Settings Screen**
 
 Simple list interface with six non-functional placeholder options: App Theme, Notifications, Language, Clear Data, About App, and Rate App. Serves as a foundation for future configuration features with clean typography and iconography, though currently implemented as a static UI prototype.
 
-![][image4]
+images/screen4.jpg
 
 **Screen 4: List Detail View**
 
